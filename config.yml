@@ -1,0 +1,5 @@
+output_dir: ./
+project_name: Kedro Project
+repo_name: kedro-proj
+python_package: kedro_proj
+include_example: true

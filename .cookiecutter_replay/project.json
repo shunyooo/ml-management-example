@@ -1,0 +1,1 @@
+{"cookiecutter": {"project_name": "Kedro Project", "repo_name": "kedro-proj", "python_package": "kedro_proj", "kedro_version": "0.16.1", "include_example": "True", "_template": "/usr/local/lib/python3.6/site-packages/kedro/templates/project"}}

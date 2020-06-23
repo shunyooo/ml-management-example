@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+  kedro:
+    build: docker
+    ports:
+      - 10080:8888
+    volumes:
+      - ./:/home/kedro
+    # command: "kedro new -c /tmp/config.yml"
